@@ -1,0 +1,11 @@
+xxxxxall_above_or_crossing_MAy:xxxx指数每周成分股上穿或站上y日均线的比例
+xxxxxall_above_or_crossing_EXPMAy:xxxx指数每周成分股上穿或站上y日指数加权均线的比例
+xxxxxall_above_or_crossing_weeklyMAy:xxxx指数每周成分股上穿或站上y周均线的比例
+xxxxx.csv：xxxxx指数每日值
+上述时间段为2017年-2020年
+
+
+xxxxxxMA20：xxxx指数每周成分股上穿或站上20日均线的比例
+时间段为2014年-2020年
+
+
